@@ -7,6 +7,12 @@ A curated list of awesome resources at the intersection of healthcare and AI.
 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - Nature - 2019.
 - [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) - Google - 2016.
 
+## Packages
+
+- [pyGeno: personalized Genomics and Proteomics](https://github.com/tariqdaouda/pyGeno)
+- [medpy: medical image processing in Python](https://github.com/loli/medpy)
+- [healthcareai: R tools for healthcare machine learning](https://github.com/HealthCatalyst/healthcareai-r)
+
 ## Datasets
 
 - [Medical Image Net](http://langlotzlab.stanford.edu/projects/medical-image-net/)

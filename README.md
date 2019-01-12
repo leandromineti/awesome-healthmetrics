@@ -31,7 +31,7 @@ Each of those groups may have resources subgrouped by:
 ### Articles
 
 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - Nature - 2019.
-- [](https://arxiv.org/abs/1702.05747) - 2017
+- [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747) - 2017
 
 ### Books
 
@@ -45,6 +45,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Packages
 
+- [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)
 - [healthcareai: R tools for healthcare machine learning](https://github.com/HealthCatalyst/healthcareai-r)
 - [medpy: medical image processing in Python](https://github.com/loli/medpy)
 

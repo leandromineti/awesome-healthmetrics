@@ -91,7 +91,7 @@ Each of those groups may have resources subgrouped by:
 - [Machine Learning with a Heart: predicting heart disease](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) - DrivenData - open
 - [II Annual Data Science Bowl: transforming how we diagnose heart disease](https://www.kaggle.com/c/second-annual-data-science-bowl) - Kaggle - 2016
 
-## Epidemiology
+## Epidemiology & infectiology
 
 ### Articles
 

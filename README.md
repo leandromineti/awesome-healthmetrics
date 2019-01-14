@@ -91,7 +91,7 @@ Each of those groups may have resources subgrouped by:
 - [Machine Learning with a Heart: predicting heart disease](https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/) - DrivenData - open
 - [II Annual Data Science Bowl: transforming how we diagnose heart disease](https://www.kaggle.com/c/second-annual-data-science-bowl) - Kaggle - 2016
 
-## Epidemiology & infectiology
+## Epidemiology & infectology
 
 ### Articles
 
@@ -215,6 +215,18 @@ Each of those groups may have resources subgrouped by:
 - [Diabetic Retinopathy Detection: identify signs of diabetic retinopathy in eye images](https://www.kaggle.com/c/diabetic-retinopathy-detection) - Kaggle - 2015
 
 ## Orthopedicts
+
+### Articles
+
+- [Automation of reading of radiological features from magnetic
+resonance images (MRIs) of the lumbar spine without human
+intervention is comparable with an expert radiologist](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17/jamaludin17.pdf) - 2017
+- [SpineNet: Automated classification and evidence visualization in
+spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jamaludin17b.pdf) - 2017
+
+### Datasets
+
+- [Vertebral Column Data Set](http://archive.ics.uci.edu/ml/datasets/vertebral+column)
 
 ### Competitions
 

@@ -95,8 +95,11 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
-- [Machine-learned epidemiology: real-time detection of foodborne illness at scale](https://www.nature.com/articles/s41746-018-0045-1) - 2018
 - [Artificial Intelligence in Public Health and Epidemiology](https://www.ncbi.nlm.nih.gov/pubmed/30157525) - 2018
+- [Emerging trends in geospatial artificial intelligence (geoAI): potential applications for environmental epidemiology](https://ehjournal.biomedcentral.com/track/pdf/10.1186/s12940-018-0386-x) - 2018
+- [Machine-learned epidemiology: real-time detection of foodborne illness at scale](https://www.nature.com/articles/s41746-018-0045-1) - 2018
+- [Machine learning spots treasure trove of elusive viruses](https://www.nature.com/articles/d41586-018-03358-3)
+- [Big Data for Infectious Disease Surveillance and Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181547/)
 
 ### Books 
 
@@ -154,6 +157,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
+- [A Deep Learning Model to Predict a Diagnosis of Alzheimer Disease by Using 18F-FDG PET of the Brain](https://pubs.rsna.org/doi/10.1148/radiol.2018180958) - 2018
 - [Machine learning in neurology: what neurologists can learn from machines and vice versa](https://www.ncbi.nlm.nih.gov/pubmed/30073503) - 2018
 - [AI and Neuroscience: A virtuous circle](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
 - [Artificial Intelligence and Neurology](https://www.omicsonline.org/open-access/artificial-intelligence-and-neurology-.php?aid=84397) - 2016

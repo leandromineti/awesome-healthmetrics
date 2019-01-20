@@ -30,7 +30,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
-- [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - Nature - 2019.
+- [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019.
 - [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747) - 2017
 
 ### Books
@@ -126,6 +126,7 @@ Each of those groups may have resources subgrouped by:
 ### Articles
 
 - [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5) - 2019
+- [Approximate Bayesian computation with deep learning supports a third archaic introgression in Asia and Oceania](https://www.nature.com/articles/s41467-018-08089-7) - 2019
 - [Machine learning applications in genetics and genomics](https://www.nature.com/articles/nrg3920) - 2015
 
 ### Books

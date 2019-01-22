@@ -47,6 +47,7 @@ Each of those groups may have resources subgrouped by:
 
 - [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)
 - [healthcareai: R tools for healthcare machine learning](https://github.com/HealthCatalyst/healthcareai-r)
+- [Image Segmentation with Pytorch](https://github.com/LeeJunHyun/Image_Segmentation)
 - [medpy: medical image processing in Python](https://github.com/loli/medpy)
 
 ### Competitions

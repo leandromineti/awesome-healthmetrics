@@ -240,6 +240,10 @@ spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jama
 
 ## Pharmacology
 
+### Datasets
+
+- [The Databases for Drug Discovery](https://github.com/LeeJunHyun/The-Databases-for-Drug-Discovery)
+
 ### Competitions
 
 - [Merck Molecular Activity Challenge: help develop safe and effective medicines by predicting molecular activity](https://www.kaggle.com/c/MerckActivity) - Kaggle - 2012

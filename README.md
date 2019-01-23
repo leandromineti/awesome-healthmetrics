@@ -160,6 +160,7 @@ Each of those groups may have resources subgrouped by:
 ### Articles
 
 - [A Deep Learning Model to Predict a Diagnosis of Alzheimer Disease by Using 18F-FDG PET of the Brain](https://pubs.rsna.org/doi/10.1148/radiol.2018180958) - 2018
+- [High-precision automated reconstruction of neurons with flood-filling networks](https://www.nature.com/articles/s41592-018-0049-4) - 2018
 - [Machine learning in neurology: what neurologists can learn from machines and vice versa](https://www.ncbi.nlm.nih.gov/pubmed/30073503) - 2018
 - [AI and Neuroscience: A virtuous circle](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
 - [Artificial Intelligence and Neurology](https://www.omicsonline.org/open-access/artificial-intelligence-and-neurology-.php?aid=84397) - 2016
@@ -202,6 +203,10 @@ Each of those groups may have resources subgrouped by:
 - [International Conference on Brain Informatics](https://uta.engineering/conferences/bi-2018/index.php)
 
 ## Oncology
+
+### Articles
+
+- [Improved Grading of Prostate Cancer Using Deep Learning](https://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html) - 2018
 
 ### Competitions
 

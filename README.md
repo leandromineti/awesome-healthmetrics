@@ -41,6 +41,7 @@ Each of those groups may have resources subgrouped by:
 ### Datasets
 
 - [Awesome Bio Datasets](awesome-bio-datasets)
+- [CheXpert: A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
 - [Medical Image Net](http://langlotzlab.stanford.edu/projects/medical-image-net/)
 
 ### Packages

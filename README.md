@@ -53,6 +53,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Competitions
 
+- [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org/)
 - [Predict Blood Donations](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) - DrivenData - open
 - [Countable Care: Modeling Women's Health Care Decisions](https://www.drivendata.org/competitions/6/countable-care-modeling-womens-health-care-decisions/) - DrivenData - 2015
 - [Heritage Health Prize: Identify patients who will be admitted to a hospital within the next year using historical claims data](https://www.kaggle.com/c/hhp) - Kaggle - 2012

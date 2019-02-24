@@ -30,6 +30,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
+- [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208) - 2019
 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019.
 - [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747) - 2017
 

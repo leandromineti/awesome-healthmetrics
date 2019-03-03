@@ -281,6 +281,10 @@ spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jama
 - [ProteinNet: a standardized data set for machine
 learning of protein structure](https://arxiv.org/abs/1902.00249v1) - 2019
 
+### Packages
+
+- [MiniFold](https://github.com/EricAlcaide/MiniFold)
+
 ### Datasets
 
 - [ProteinNet: a standardized data set for machine learning of protein structure](https://github.com/aqlaboratory/proteinnet)

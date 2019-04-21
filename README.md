@@ -32,9 +32,9 @@ Each of those groups may have resources subgrouped by:
 
 - [Adversarial attacks on medical AI: A health policy challenge](https://cyber.harvard.edu/story/2019-03/adversarial-attacks-medical-ai-health-policy-challenge) - 2019
 - [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208) - 2019
-- [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019.
+- [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019
 - [Big data and machine learning in health care](https://www.dropbox.com/s/q1cixzmsdugq3vy/Beam_BigData_ML.pdf?dl=0) - 2018
-- [Opportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388)
+- [Opportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388) - 2018
 - [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747) - 2017
 - [Translating Artificial Intelligence Into Clinical Care](https://www.dropbox.com/s/4o1va07tqwvrxsn/Beam_TranslatingAI_2016.pdf?dl=0) - 2016
 

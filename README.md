@@ -213,6 +213,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
+- [Robust breast cancer detection in mammography and digital breast tomosynthesis using annotation-efficient deep learning approach](https://arxiv.org/abs/1912.11027v2) - 2019
 - [Improved Grading of Prostate Cancer Using Deep Learning](https://ai.googleblog.com/2018/11/improved-grading-of-prostate-cancer.html) - 2018
 
 ### Competitions
@@ -262,6 +263,10 @@ spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jama
 - [Predicting a Biological Response: predict a biological response of molecules from their chemical properties](https://www.kaggle.com/c/bioresponse) - Kaggle - 2012
 
 ## Psychiatry
+
+### Articles
+
+- [A novel machine learning based framework for detection of Autism Spectrum Disorder (ASD)](https://arxiv.org/abs/1903.11323v3) - 2019
 
 ### Books
 

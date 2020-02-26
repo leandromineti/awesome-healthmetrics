@@ -166,6 +166,7 @@ Each of those groups may have resources subgrouped by:
 
 ### Articles
 
+- [Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks](https://www.nature.com/articles/s41591-019-0715-9) - Nature Medicine - 2020
 - [A Deep Learning Model to Predict a Diagnosis of Alzheimer Disease by Using 18F-FDG PET of the Brain](https://pubs.rsna.org/doi/10.1148/radiol.2018180958) - 2018
 - [High-precision automated reconstruction of neurons with flood-filling networks](https://www.nature.com/articles/s41592-018-0049-4) - 2018
 - [Machine learning in neurology: what neurologists can learn from machines and vice versa](https://www.ncbi.nlm.nih.gov/pubmed/30073503) - 2018

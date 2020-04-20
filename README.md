@@ -254,6 +254,10 @@ spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jama
 
 ## Pharmacology
 
+### Articles
+
+- [Meta-Learning Initializations for Low-Resource Drug Discovery](https://arxiv.org/abs/2003.05996v1) - 2020
+
 ### Datasets
 
 - [The Databases for Drug Discovery](https://github.com/LeeJunHyun/The-Databases-for-Drug-Discovery)

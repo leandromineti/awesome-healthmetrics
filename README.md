@@ -256,6 +256,7 @@ spinal MRIs](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17b/jama
 
 ### Articles
 
+- [Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19](https://arxiv.org/abs/2004.07229v1) - 2020
 - [Meta-Learning Initializations for Low-Resource Drug Discovery](https://arxiv.org/abs/2003.05996v1) - 2020
 
 ### Datasets

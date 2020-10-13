@@ -2,29 +2,69 @@
 
 A curated list of awesome resources at the intersection of healthcare and AI. 
 
-The resources are grouped by specialty:
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- General
-- Cardiology
-- Epidemiology & infectology
-- Genetics
-- Neurology
-- Oncology
-- Ophthalmology
-- Orthopedicts
-- Pharmacology
-- Psychiatry
-- Pulmonology
-- Research
-
-Each of those groups may have resources subgrouped by:
-
-- Articles
-- Books
-- Datasets
-- Packages
-- Competitions
-- Conferences and events
+- [Awesome Healthmetrics *](#awesome-healthmetrics-)
+  - [General](#general)
+    - [Articles](#articles)
+    - [Books](#books)
+    - [Datasets](#datasets)
+    - [Packages](#packages)
+    - [Competitions](#competitions)
+    - [Conferences and events](#conferences-and-events)
+  - [Cardiology](#cardiology)
+    - [Articles](#articles-1)
+    - [Books](#books-1)
+    - [Datasets](#datasets-1)
+    - [Packages](#packages-1)
+    - [Competitions](#competitions-1)
+  - [Epidemiology & infectology](#epidemiology--infectology)
+    - [Articles](#articles-2)
+    - [Books](#books-2)
+    - [Datasets](#datasets-2)
+    - [Packages](#packages-2)
+    - [Competitions](#competitions-2)
+  - [Genetics](#genetics)
+    - [Articles](#articles-3)
+    - [Books](#books-3)
+    - [Datasets](#datasets-3)
+    - [Packages](#packages-3)
+    - [Competitions](#competitions-3)
+    - [Conferences and events](#conferences-and-events-1)
+  - [Neurology](#neurology)
+    - [Articles](#articles-4)
+    - [Books](#books-4)
+    - [Datasets](#datasets-4)
+    - [Packages](#packages-4)
+    - [Competitions](#competitions-4)
+    - [Conferences and events](#conferences-and-events-2)
+  - [Oncology](#oncology)
+    - [Articles](#articles-5)
+    - [Competitions](#competitions-5)
+  - [Ophthalmology](#ophthalmology)
+    - [Articles](#articles-6)
+    - [Competitions](#competitions-6)
+  - [Orthopedicts](#orthopedicts)
+    - [Articles](#articles-7)
+    - [Datasets](#datasets-5)
+    - [Competitions](#competitions-7)
+  - [Pharmacology](#pharmacology)
+    - [Articles](#articles-8)
+    - [Datasets](#datasets-6)
+    - [Competitions](#competitions-8)
+  - [Psychiatry](#psychiatry)
+    - [Articles](#articles-9)
+    - [Books](#books-5)
+    - [Competitions](#competitions-9)
+  - [Pulmonology](#pulmonology)
+    - [Competitions](#competitions-10)
+  - [Research](#research)
+    - [Articles](#articles-10)
+    - [Packages](#packages-5)
+    - [Datasets](#datasets-7)
+    - [Competitions](#competitions-11)
 
 ## General
 

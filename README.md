@@ -71,6 +71,7 @@ A curated list of awesome resources at the intersection of healthcare and AI.
 
 ### Articles
 
+- [Representation Learning for Networks in Biology and Medicine: Advancements, Challenges, and Opportunities](https://arxiv.org/abs/2104.04883v1) - 2021
 - [Adversarial attacks on medical AI: A health policy challenge](https://cyber.harvard.edu/story/2019-03/adversarial-attacks-medical-ai-health-policy-challenge) - 2019
 - [Transfusion: Understanding Transfer Learning with Applications to Medical Imaging](https://arxiv.org/abs/1902.07208) - 2019
 - [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7) - 2019

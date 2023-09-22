@@ -243,6 +243,7 @@ A curated list of awesome resources at the intersection of healthcare and AI.
 
 ### Competitions
 
+- [PREPARE: Pioneering Research for Early Prediction of Alzheimer's and Related Dementias EUREKA Challenge](https://www.drivendata.org/competitions/253/competition-nih-alzheimers-adrd-1/) - DrivenData - 2023.
 - [Ultrasound Nerve Segmentation: identify nerve structures in ultrasound images of the neck](https://www.kaggle.com/c/ultrasound-nerve-segmentation) - Kaggle - 2016
 - [Melbourne University AES/MathWorks/NIH Seizure Prediction: predict seizures in long-term human intracranial EEG recordings](https://www.kaggle.com/c/melbourne-university-seizure-prediction) - Kaggle - 2016
 - [Grasp-and-Lift EEG Detection: identify hand motions from EEG recordings](https://www.kaggle.com/c/grasp-and-lift-eeg-detection) - Kaggle - 2015
